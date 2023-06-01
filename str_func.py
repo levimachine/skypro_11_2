@@ -6,3 +6,9 @@ def string_upper(value: str) -> str:
 def string_title(value: str) -> str:
     """Делает строку с заглавной первой буквой"""
     return value.title()
+
+
+
+def do_something():
+    """Делаю вид, что чиню баг"""
+    pass
